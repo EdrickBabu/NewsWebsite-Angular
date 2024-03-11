@@ -25,3 +25,15 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## User Interface
+
+Screenshot of single page application displaying news.
+
+![Home](screenshot/Home.png "Home")
+
+
+Screenshot of Technology news with link to Home or Technology. 
+
+![Tech](screenshot/Tech.png "Tech")
